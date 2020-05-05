@@ -9,3 +9,14 @@ Use this example when:
 
 ### In this example
 In script.js wfs features are added to a Leaflet map when the user reaches the required zoom level. When the required zoom level is reached the bounding box of the map screen is used as input to get features from the BAG wfs.
+
+
+### Credits
+- Leaflet<br>
+https://github.com/Leaflet/Leaflet
+
+- Proj4<br>
+https://github.com/proj4js/proj4js
+
+- BAG wfs<br>
+https://www.nationaalgeoregister.nl/
